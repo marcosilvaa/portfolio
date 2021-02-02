@@ -13,7 +13,7 @@ As an Civil Engineer, I use my problem-solving skills, math and statistics abili
 * [LinkedIn](www.linkedin.com/in/marcosilvaa)
 * [Medium](https://medium.com/@marcoasilvam159)
 
-#Projects:
+# Projects:
 
 Check my Data Science projects below.
 

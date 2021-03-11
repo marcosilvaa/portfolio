@@ -16,6 +16,8 @@ As an Civil Engineer, I use my problem-solving skills, math and statistics abili
 Check my Data Science projects below.
 
 * [Analisando dados do Airbnb - Nova Iorque](https://github.com/marcosilvaa/portfolio/blob/main/Analisando_dados_do_Airbnb_Nova_Iorque.ipynb)
+* [Analisando dados de Crimes da Cidad do Rio de Janeiro](https://github.com/marcosilvaa/data_projects/blob/main/Analisando_a_Violência_no_Rio_de_Janeiro.ipynb)
+
 
 
 

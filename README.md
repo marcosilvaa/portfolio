@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.jpg" >
+  <img src="datascience_wallpaper.png" >
 </p>
 
 # Marco Aurélio

@@ -8,8 +8,8 @@ As an Civil Engineer, I use my problem-solving skills, math and statistics abili
 
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/marcosilvaa)
-* [Medium](https://medium.com/@marcoasilvam159)
+* [LinkedIn](https://www.linkedin.com/in/marcosilvaa/?locale=pt_BR)
+* [Medium](https://medium.com/@marcoasilvam)
 
 # Projects:
 
